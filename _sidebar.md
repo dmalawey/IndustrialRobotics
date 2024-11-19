@@ -1,3 +1,4 @@
-* [instruction](instruction)
-* [designs](designs)
-* [updates](updates)
+* [Home](home)
+* [Instruction](instruction)
+* [Designs](designs)
+* [Updates](updates)
