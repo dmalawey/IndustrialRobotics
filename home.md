@@ -1,6 +1,9 @@
 ## Industrial Robotics Course
 This repo supports the Texas A&M Lab for MXET400, titled industrial robotics.  It's a lab-based undergraduate course covering Industrial Automation, Manipulator robots, and embedded systems.
 
+![lab diagram 1](img/labDiagram1.jpg)
+_diagram for four key technologies included in the lab_
+
 ## Lab Overview
 Each lab session has tasks of interacting with a robotic lab bench setup, plus a few sensors & software elements operated at the students' computer.
 
