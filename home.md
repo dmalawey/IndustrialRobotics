@@ -7,19 +7,20 @@ _diagram for four key technologies included in the lab_
 ## Lab Overview
 Each lab session has tasks of interacting with a robotic lab bench setup, plus a few sensors & software elements operated at the students' computer.
 
-### MXET-Conveyor-2021
+### Conveyor & Robot System
+The lab equipment is the basis for 1000 possible processes, but we established a basic demonstration which uses all of the key features.  The product is picked up by the robot arm, placed on the conveyor, sensed by a sensor, categorized by color, moved on conveyor, and stored in a rack.  Finally the product is sensed in the rack, and the industrial controller (PLC) verifies the process has completed.
 
+>
 > Instructional Video
->  * [Youtube Video](https://www.youtube.com/watch?v=30GM4m-Lyec)
+>
+> <iframe width="500" src="https://www.youtube.com/embed/30GM4m-Lyec" title="Program a PLC with Conveyor, Arduino and Industrial Robot" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+>
+
+These two videos are posted on the homepage for quick visuals - find more videos & information on the Instructions tab (see sidebar menu).
+
 >
 > Demonstration Video
->  * [Youtube Video](https://youtu.be/ZBGswS26Dy4)
+> 
 >
-> ![Picture1](https://user-images.githubusercontent.com/42623372/135189165-299c494f-5adf-4ba6-844b-2a316e3090fd.png)
+> <iframe width="500" src="https://www.youtube.com/embed/ZBGswS26Dy4" title="Industrial robotics (MXET400) quick demo, conveyor, UR3e robot." frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
 >
-> CAD Models:
-> * [Rack assembly](https://grabcad.com/library/mxet400-soda-can-rack-assembly-1) on grabCAD
-> * [Distance sensor](https://grabcad.com/library/mxet400-distance-sensor-assembly-1) on grabCAD
-> * [Conveyor belt](https://grabcad.com/library/mxet400-conveyor-assembly-1) on grabCAD
-> * [P1AM-100 PLC](https://ftp.automationdirect.com/support/drawings/3d/step/P1AM-100.STEP) at AutomationDirect
-> * **[FIND ALL MXET400 Tags](https://grabcad.com/library?page=1&time=all_time&sort=recent&query=MXET400)** on grabCAD
