@@ -1,3 +1,3 @@
 * [instruction](instruction)
-* [documentation](documentation)
+* [designs](designs)
 * [updates](updates)
